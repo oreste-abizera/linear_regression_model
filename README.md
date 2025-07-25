@@ -48,7 +48,7 @@ Scatter plots below show the relationship between the top three features and sch
 - `message`: Analysis message
 
 ## Video Demo
-**YouTube Link:** [5-Minute Demo Video](https://youtube.com/watch?v=your-video-id)
+**YouTube Link:** [Demo Video](https://youtu.be/T2eCIH3MgBA)
 
 The video demonstrates:
 - Mobile app predictions using the Flutter app
