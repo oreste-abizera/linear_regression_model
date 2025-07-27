@@ -10,6 +10,16 @@ This project addresses the education gap in rural communities by building a mach
 - The dataset used for this project is publicly available on Kaggle: [Education in Africa Dataset by Lydia70](https://www.kaggle.com/datasets/lydia70/education-in-africa)
 - File used: `Education in General.csv` (located in `summative/linear_regression/`)
 
+## Key Visualizations
+
+### Distribution of School Life Expectancy (Male)
+This histogram shows the distribution of school life expectancy for males across African countries in the dataset.
+![Distribution of School Life Expectancy](summative/linear_regression/visualizations/school_life_expectancy_distribution.png)
+
+### Top Features vs. School Life Expectancy
+Scatter plots below show the relationship between the top three features and school life expectancy (male), with trend lines indicating correlation.
+![Top Feature Scatter](summative/linear_regression/visualizations/top_features.png)
+
 ## API Endpoint
 **Public API URL:** https://education-prediction-api.onrender.com
 
